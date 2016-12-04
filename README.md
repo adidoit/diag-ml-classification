@@ -2,6 +2,10 @@
 
 This repo contains code, data and a presentation for the DIAG Machine Learning workshop on Classification
 
+Credit to Kaggle's Machine Learning Tutotial on the Titanic Disaster for the Data.
+
+adi 
+
 ##VARIABLE DESCRIPTIONS:
 survival        Survival
                 (0 = No; 1 = Yes)
